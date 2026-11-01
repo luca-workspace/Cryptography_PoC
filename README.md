@@ -2,6 +2,8 @@
 
 This repository contains a Proof of Concept (PoC) developed as part of a university examination project in Cryptography. It explores a privacy-preserving mechanism for issuing and verifying digital certificates using cryptographic hashing.
 
+<img src="images/screenshot.jpg" width="500" alt="App Preview">
+
 ---
 
 ## 1. Scenario & Academic Context
